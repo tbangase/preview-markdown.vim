@@ -28,8 +28,8 @@ repo = 'skanehira/preview-markdown.vim'
 | `g:preview_markdown_auto_update` | Update preview window when write to buffer.               |
 
 ## Markdown parser
-- [MichaelMure/mdr](https://github.com/MichaelMure/mdr)
-- [glow](https://github.com/charmbracelet/glow)
+- [MichaelMure/mdr](https://github.com/MichaelMure/mdr) -- Not Working 2022/07/02
+- [glow](https://github.com/charmbracelet/glow) -- Recommended Parser
 - [mdcat](https://github.com/lunaryorn/mdcat)
 
 ## Author
