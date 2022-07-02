@@ -33,4 +33,4 @@ repo = 'skanehira/preview-markdown.vim'
 - [mdcat](https://github.com/lunaryorn/mdcat)
 
 ## Author
-skanehira
+skanehira -> tbangase
